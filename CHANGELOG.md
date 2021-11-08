@@ -1,5 +1,11 @@
 # Change Log
 
+
+### [0.0.6] - 2021-11-08
+
+- Attributes color
+
+
 ### [0.0.4 - 0.0.5] - 2021-11-08
 
 - HTML tags color changed
