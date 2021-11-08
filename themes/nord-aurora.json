@@ -32,7 +32,7 @@
       "name": "haskell storage type",
       "scope": "storage.type.haskell",
       "settings": {
-        "foreground": "#d08a70"
+        "foreground": "#d08d6a"
       }
     },
     {
