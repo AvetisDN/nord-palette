@@ -2,9 +2,18 @@
     "name": "nord-palette",
     "displayName": "Nord Palette",
     "description": "Dark themes based on Nord palette",
+    "author": {
+        "name": "AvetisDN",
+        "email": "avetisdn@gmail.com"
+    },
+    "icon": "./icon/nordtheme.png",
     "version": "0.0.1",
     "engines": {
-        "vscode": "^1.62.0"
+        "vscode": "^1.50.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AvetisDN/nord-palette"
     },
     "categories": [
         "Themes"
@@ -12,9 +21,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Nord Palette",
+                "label": "Nord Aurora",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Nord Palette-color-theme.json"
+                "path": "./themes/nord-aurora.json"
+            },
+            {
+                "label": "Nord Frost",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nord-frost.json"
             }
         ]
     }
