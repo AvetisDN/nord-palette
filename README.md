@@ -8,8 +8,8 @@ Dark themes based on Nord palette
 ---
 
 ### Nord Aurora
-![Nord Arctic](https://i.imgur.com/gZmImY8.png)
+![Nord Arctic](https://i.imgur.com/6bIQdbc.png)
 
 ### Nord Frost
-![Nord Arctic](https://i.imgur.com/JmB8WeD.png)
+![Nord Arctic](https://i.imgur.com/y9d0nvS.png)
 

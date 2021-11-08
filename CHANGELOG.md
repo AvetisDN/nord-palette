@@ -1,6 +1,11 @@
 # Change Log
 
 
+### [0.0.7] - 2021-11-08
+
+- Screenshots updated
+
+
 ### [0.0.6] - 2021-11-08
 
 - Attributes color
