@@ -1,0 +1,21 @@
+{
+    "name": "nord-palette",
+    "displayName": "Nord Palette",
+    "description": "Dark themes based on Nord palette",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nord Palette",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nord Palette-color-theme.json"
+            }
+        ]
+    }
+}
