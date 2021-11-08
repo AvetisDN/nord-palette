@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "nord-palette" extension will be documented in this file.
+### [0.0.3] - 2021-11-08
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Minor Red/Orange tones tweaks
