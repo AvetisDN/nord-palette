@@ -778,7 +778,7 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#7191b1"
+        "foreground": "#d16978"
       }
     },
     {

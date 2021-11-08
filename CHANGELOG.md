@@ -1,6 +1,6 @@
 # Change Log
 
-### [0.0.4] - 2021-11-08
+### [0.0.4 - 0.0.5] - 2021-11-08
 
 - HTML tags color changed
 
