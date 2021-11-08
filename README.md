@@ -1,12 +1,15 @@
 # Nord Palette Theme
 ## Screenshots
 
+Dark themes based on Nord palette
 
-### Nord Arctic:
-![Nord Arctic](https://link)
-
-### Nord Aurorae
-![Nord Arctic](https://link)
+[Nord Theme official website](https://www.nordtheme.com)
 
 ---
-[Nord Theme official website](https://www.nordtheme.com)
+
+### Nord Aurora
+![Nord Arctic](https://i.imgur.com/gZmImY8.png)
+
+### Nord Frost
+![Nord Arctic](https://i.imgur.com/JmB8WeD.png)
+
