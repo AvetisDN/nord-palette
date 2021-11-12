@@ -1,6 +1,11 @@
 # Change Log
 
 
+### [0.1.0] - 2021-11-12
+
+- Darker variant of Aurora theme
+
+
 ### [0.0.7] - 2021-11-08
 
 - Screenshots updated
